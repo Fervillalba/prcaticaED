@@ -1,4 +1,4 @@
-# praticaED
+# practicaED
 Aquí pondremos la documentación de la práctica
 1º Creamos el repositorio en github.
 2º Creamos este README.md.
